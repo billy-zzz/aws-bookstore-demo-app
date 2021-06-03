@@ -1,3 +1,4 @@
+// Name: William Burton  ID: 1505616
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",
