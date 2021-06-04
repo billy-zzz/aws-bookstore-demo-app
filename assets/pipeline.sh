@@ -6,3 +6,4 @@ fi
 echo 'comment check passed!'
 npm install
 npm run build
+npm run test
